@@ -1,0 +1,6 @@
+Armando Couto;Masculino;02/12/1988;1,80
+Brmando Couto;Masculino;02/12/1988;1,81
+Crmando Couto;Masculino;02/12/1988;1,82
+Drmando Couto;Masculino;02/12/1988;1,83
+Ermando Couto;Masculino;02/12/1988;1,84
+Frmando Couto;Masculino;02/12/1988;1,85
